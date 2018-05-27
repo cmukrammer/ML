@@ -1,0 +1,1 @@
+Although the two lists are different, the top 9 words are completely the same in these two lists. Actually, these two lists have a lot of overlapping words. All of these words are very basic words in English, such as articles, prepositions, and pronouns. These are very common words and provde very few information regarding the class of these blogs.

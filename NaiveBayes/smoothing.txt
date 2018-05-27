@@ -1,0 +1,1 @@
+The best q in my experiments is from 0.02 to 0.04. I also tried to use very small q, such as 0.000000000001, but, it doesn't help much. I think the small q makes our Naive Bayes classifier treat the possibility as no smoothing. I also tried to use very big q, which results in bad accuracy because now the q and q*|Vocabulary| are dominate the whole poosibility.
